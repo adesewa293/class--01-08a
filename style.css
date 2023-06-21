@@ -23,6 +23,7 @@ footer {
 
 .headerNav {
   display: flex;
+  margin-bottom: 30px;
 }
 
 .navList {
@@ -36,11 +37,13 @@ footer {
 .subBanner {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 30px;
 }
 
 .featureSection {
   display: flex;
   align-items: start;
+  padding-bottom: 30px;
 }
 
 .featureContent {
@@ -50,36 +53,17 @@ footer {
 .featureScrollSection {
   height: 375px;
   overflow: scroll;
+  padding-left: 10px;
 }
 
 .cta {
   width: 200px;
   height: 25px;
-}
-
-/* 
-.navList li {
-  display: inline;
-}
-.headerNav {
-  background-color: #08664f;
+  margin-left: 10px;
   
 }
-.navList {
-  text-align: right;
-  padding-bottom: 30px;
-}
+
+
 .heroImage {
-  width: 100%;
-  background-color: white;
-  padding-top: 30px;
   padding-bottom: 30px;
 }
-.subBanner img {
-  padding-right: 30px;
-  padding-bottom: 30px;
-}
-.div4 {
-  display: flex;
-  padding-bottom: 30px;
-} */
